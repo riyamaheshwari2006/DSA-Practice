@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |
