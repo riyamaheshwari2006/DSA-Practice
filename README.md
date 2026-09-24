@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0933-number-of-recent-calls) |
 ## Array
 |  |
 | ------- |
@@ -115,8 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0933-number-of-recent-calls) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0605-can-place-flowers) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
