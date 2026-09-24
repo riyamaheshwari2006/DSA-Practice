@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
