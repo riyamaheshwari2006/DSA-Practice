@@ -20,3 +20,7 @@ public class SumOfNaturalNumbers {
         sc.close();
     }
 }
+
+Output:
+Enter a number: 5
+Sum of first 5 natural numbers = 15
