@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0605-can-place-flowers](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0622-design-circular-queue) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
