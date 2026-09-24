@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0605-can-place-flowers](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0605-can-place-flowers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
