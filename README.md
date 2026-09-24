@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 ## Array
 |  |
 | ------- |
@@ -103,4 +105,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
