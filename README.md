@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0622-design-circular-queue) |
 ## Math
 |  |
