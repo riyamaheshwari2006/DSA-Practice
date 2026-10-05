@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
@@ -159,4 +160,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0724-find-pivot-index) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
