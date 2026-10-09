@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -225,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
