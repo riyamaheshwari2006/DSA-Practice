@@ -1,6 +1,3 @@
-import java.util.LinkedList;
-import java.util.Queue;
-
 class Solution {
     public int findBottomLeftValue(TreeNode root) {
         Queue<TreeNode> queue = new LinkedList<>();
