@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0621-task-scheduler) |
 | [1207-unique-number-of-occurrences](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0621-task-scheduler) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0268-missing-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Prefix Sum
 |  |
@@ -260,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0268-missing-number) |
 ## Binary Search Tree
 |  |
 | ------- |
