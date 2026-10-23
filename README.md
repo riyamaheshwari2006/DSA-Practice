@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0050-powx-n) |
+| [0973-k-closest-points-to-origin](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0622-design-circular-queue) |
 | [0724-find-pivot-index](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0724-find-pivot-index) |
+| [0973-k-closest-points-to-origin](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1207-unique-number-of-occurrences](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -116,12 +118,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0169-majority-element) |
+| [0973-k-closest-points-to-origin](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0973-k-closest-points-to-origin](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
@@ -255,4 +260,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
