@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
+| [0743-network-delay-time](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
+| [0743-network-delay-time](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0743-network-delay-time) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -333,4 +336,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
