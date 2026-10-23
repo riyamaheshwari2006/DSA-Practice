@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0242-valid-anagram) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0202-happy-number) |
 ## Design
 |  |
 | ------- |
