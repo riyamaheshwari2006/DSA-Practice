@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0621-task-scheduler) |
 | [1207-unique-number-of-occurrences](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0409-longest-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0621-task-scheduler) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0933-number-of-recent-calls) |
 ## Greedy
