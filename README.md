@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0605-can-place-flowers](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0622-design-circular-queue) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1046-last-stone-weight) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Prefix Sum
 |  |
@@ -325,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
