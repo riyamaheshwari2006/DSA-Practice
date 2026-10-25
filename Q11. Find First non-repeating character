@@ -1,0 +1,29 @@
+Q11. Find First non-repeating character
+
+import java.util.*;
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String str = sc.nextLine();
+        int[] freq = new int[256];
+        for (int i = 0; i < str.length(); i++) {
+            freq[str.charAt(i)]++;
+        }
+        char result = '\0';
+        for (int i = 0; i < str.length(); i++) {
+            if (freq[str.charAt(i)] == 1) {
+                result = str.charAt(i);
+                break;
+            }
+        }
+        if (result != '\0') {
+            System.out.println("First non-repeating character: " + result);
+        } else {
+            System.out.println("No non-repeating character found");
+        }
+        sc.close();
+    }
+}
+
+Input: aabbcdde
+Output: First non-repeating character: c
