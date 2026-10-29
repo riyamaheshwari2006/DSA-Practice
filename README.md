@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0621-task-scheduler) |
+| [0997-find-the-town-judge](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## String
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0973-k-closest-points-to-origin](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
+| [0997-find-the-town-judge](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0743-network-delay-time) |
+| [0997-find-the-town-judge](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1791-find-center-of-star-graph) |
 ## Shortest Path
 |  |
