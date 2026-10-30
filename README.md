@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0086-partition-list](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0202-happy-number) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0200-number-of-islands) |
