@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0020-valid-parentheses) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0141-linked-list-cycle) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0940-distinct-subsequences-ii](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Heap (Priority Queue)
@@ -366,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0743-network-delay-time) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
