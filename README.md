@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0973-k-closest-points-to-origin](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Bit Manipulation
 |  |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Theory
 |  |
