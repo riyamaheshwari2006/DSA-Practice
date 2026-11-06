@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0328-odd-even-linked-list) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0205-isomorphic-strings) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0027-remove-element) |
 | [0086-partition-list](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0658-find-k-closest-elements](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0658-find-k-closest-elements) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0202-happy-number) |
 ## Design
 |  |
