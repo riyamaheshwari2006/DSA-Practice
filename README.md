@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0268-missing-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0605-can-place-flowers](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0605-can-place-flowers) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0621-task-scheduler) |
@@ -418,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/riyamaheshwari2006/DSA-Practice/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
